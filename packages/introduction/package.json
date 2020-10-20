@@ -30,5 +30,8 @@
     "nohoist": [
       "parcel-bundler"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3"
   }
 }
